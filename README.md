@@ -3,10 +3,9 @@
 
 Welcome to our movie review website! Get comprehensive and unbiased reviews. Discover new films and make informed decisions. Join our engaging community of film enthusiasts.
 
-## Backend API
+## FrontEnd API
 
-
-- [@backend-api](https://github.com/ridham-sood/movie)
+- [FrontEnd-api](https://github.com/ridham-sood/movie)
 
 ## Authors
 
